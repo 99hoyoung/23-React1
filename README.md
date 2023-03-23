@@ -10,7 +10,7 @@
   5. GitHub 저장소 삭제
   6. 로컬에서 23-React1 push
   7. GitHub 저장소 확인 <br>
-   <img src = "image/0323.1.PNG">
+   <img src = "image/0323.1.PNG"> <br>
 ### 명령어
 - git init
 - git remote add origin 깃허브 내주소
