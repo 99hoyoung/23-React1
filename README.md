@@ -12,11 +12,11 @@
   7. GitHub 저장소 확인 <br>
    <img src = "image/0323.1.PNG">
 ### 명령어
- 1. git init
- 2. git remote add origin 깃허브 내주소
- 3. git commit -m "멘트"
- 4. git branch -M main
- 5. git push origin main
+- git init
+- git remote add origin 깃허브 내주소
+- git commit -m "멘트"
+- git branch -M main
+- git push origin main 
 
 ### JSX란?
 - JavaScript에 XML을 추가한 확장 문법
