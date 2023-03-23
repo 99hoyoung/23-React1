@@ -11,7 +11,30 @@
   6. 로컬에서 23-React1 push
   7. GitHub 저장소 확인 <br>
    <img src = "image/0323.1.PNG">
+### 명령어
+1. git init
+2. git remote add origin 깃허브 내주소
+3. git commit -m "멘트"
+4. git branch -M main
+5. git push origin main
 
+### JSX란?
+- JavaScript에 XML을 추가한 확장 문법
+- JSX는 XML/HTML 코드를 자바스크립트로 변환
+- React가 createElement 함수를 사용하여 자동으로 자바스크립트로 변환해줌
+
+### JSX의 장점
+- 코드가 간결해짐.
+- 가독성이 향상됨.
+- Injection Attack 해킹 방법을 방어함으로서 보안에 강함.
+
+### JSX 사용법
+- 모든 자바스크립트 문법 지원.
+- 자바스크립트 문법에 XML/HTML을 섞어 사용.
+- HTML/XML에 자바스크립트 코드를 사용할시 {}괄호를 사용.
+  
+  
+XML 단일태그 <br> <br /> <img> <img /> <br>
 <h1>2023-03-16 3주차 수업</h1><br>
 1.개발 환경 설정 <br>
 1. Node.js, npm 설치 <br>
