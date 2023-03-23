@@ -10,7 +10,7 @@
   5. GitHub 저장소 삭제
   6. 로컬에서 23-React1 push
   7. GitHub 저장소 확인
-   <src img = "image/0323.1>
+   <img src = "image/0323.1.PNG>
 
 <h1>2023-03-16 3주차 수업</h1><br>
 1.개발 환경 설정 <br>
