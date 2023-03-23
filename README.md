@@ -9,7 +9,7 @@
   4. README.md 덮어쓰기
   5. GitHub 저장소 삭제
   6. 로컬에서 23-React1 push
-  7. GitHub 저장소 확인
+  7. GitHub 저장소 확인 <br>
    <img src = "image/0323.1.PNG>
 
 <h1>2023-03-16 3주차 수업</h1><br>
