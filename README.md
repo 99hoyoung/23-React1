@@ -2,6 +2,16 @@
 
 <h1>2023-03-17 4주차 수업</h1><br>
 
+### github repositories 새로 만들기
+  1. README.md 백업
+  2. local에 있는 저장소 이름 바꾸기/삭제
+  3. 새 프로젝트 생성(23-React1)
+  4. README.md 덮어쓰기
+  5. GitHub 저장소 삭제
+  6. 로컬에서 23-React1 push
+  7. GitHub 저장소 확인
+   <src img = "image/0323.1>
+
 <h1>2023-03-16 3주차 수업</h1><br>
 1.개발 환경 설정 <br>
 1. Node.js, npm 설치 <br>
