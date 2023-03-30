@@ -19,7 +19,12 @@
 ### DOM 엘리먼트를 사용하여 현재시간 출력(1초마다 초기화)
 1. 폴더 만들고 html 파일 만들기
 2. react 사이트에서 코드 복붙 <img src = "image/0330.1.PNG">
+3. babel/standalone 사이트 코드 복붙 <img src ="image/0330.2.PNG">
+4. 코드 작성 <img src ="image/0330.3.PNG">
 
+### 실습
+- <img src ="image/0330.4.PNG">
+- <img src ="image/0330.5.PNG">
 
 <h1>2023-03-23 4주차 수업</h1><br>
 
