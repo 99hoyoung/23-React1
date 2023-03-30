@@ -26,6 +26,19 @@
 - <img src ="image/0330.4.PNG">
 - <img src ="image/0330.5.PNG">
 
+### Props의 개념
+- props는 prop(property : 속성 특성)의 준말
+- props는 컴포넌트의 속성
+- 컴포넌트에 어떠한 속성, props를 넣느냐에 따라 다른 엘리먼트 출력
+- props는 컴포넌트에 전달 할 다양한 정보를 다모 있는 JSP객체
+
+### Props의 특징
+- 읽기 전용, 변경할 수 없음
+- 속성이 다른 엘리먼트를 생성하려면 새로운 props를 컴포넌트에 전달해야됨.
+
+### Props 사용법
+- JSX에서는 key-value쌍으로 props를 구성
+
 <h1>2023-03-23 4주차 수업</h1><br>
 
 ### github repositories 새로 만들기
