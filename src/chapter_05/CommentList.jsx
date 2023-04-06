@@ -21,7 +21,7 @@ function CommentList(props) {
         <div>
             {comments.map((comment) => {
                 return (
-                    <Comment name={foo.name} comment={foo.comment} />
+                    <Comment name={comment.name} comment={comment.comment} />
                 );
             })}
         </div>
