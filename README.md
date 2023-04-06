@@ -1,5 +1,27 @@
 # 23-React1 이호영
 
+<h1>2023-04-06 6주차 수업</h1><br>
+
+### 컴포넌트 추출
+- 복잡한 컴포넌트는 여러개의 컴포넌트로 나눌 수 있음.
+- 큰 컴포넌트에서 일부를 추출해 새로운 컴포넌트를 만듦.
+- Comment는 댓글 표시 컴포넌트
+
+### 실습예제
+```js
+import React from "react";
+
+function Comment(props) {
+    return (
+        <div>
+            <h1>내가 만든 첫 컴포넌트.</h1>
+        </div>
+    )
+}
+
+expect default Comment
+```
+
 <h1>2023-03-30 5주차 수업</h1><br>
 
 ### 엘리먼트 정의
