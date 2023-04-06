@@ -7,7 +7,7 @@
 - 큰 컴포넌트에서 일부를 추출해 새로운 컴포넌트를 만듦.
 - Comment는 댓글 표시 컴포넌트
 
-### 실습예제
+### 컴포넌트 만들기 실습예제
 ```js
 import React from "react";
 
@@ -22,6 +22,44 @@ function Comment(props) {
 expect default Comment
 ```
 
+### 컴포넌트 리스트 만들기 실습예제
+```js
+import React from "react";
+import Comment from "./Comment"
+
+function CommentList(props) {
+    return (
+        <div>
+            <Comment />
+        </div>
+    )
+}
+
+export default CommentList
+```
+
+### index.js 수정
+```js
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import './index.css';
+import App from './App';
+import reportWebVitals from './reportWebVitals';
+import CommentList from './chapter_05/CommentList';
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <CommentList/>
+  </React.StrictMode>
+);
+reportWebVitals();
+```
+
+### 결과물
+- <img src = "image/0406.1.PNG">
+
+###
 <h1>2023-03-30 5주차 수업</h1><br>
 
 ### 엘리먼트 정의
