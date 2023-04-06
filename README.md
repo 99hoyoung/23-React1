@@ -117,7 +117,7 @@ export default CommentList;
 - 여러개의 Comment를 하나씩 빼서 사용.
 
 ### 결과물
-- <img src = "image/0406.2.PNG">
+<img src = "image/0406.2.PNG">
 
 ###
 <h1>2023-03-30 5주차 수업</h1><br>
