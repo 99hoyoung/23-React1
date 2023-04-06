@@ -38,9 +38,7 @@ function Comment(props) {
             <div style={styles.imageContainer}>
                 <img
                     src="https://upload.wikimedia.org/wikipedia/commons/8/89/Portrait_Placeholder.png"
-                    alt = "이미지"
                     style={styles.image}
-                    
                 />
             </div>
 
@@ -51,3 +49,5 @@ function Comment(props) {
         </div>
     );
 }
+
+export default Comment;
