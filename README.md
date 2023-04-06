@@ -55,9 +55,34 @@ root.render(
 );
 reportWebVitals();
 ```
-
 ### 결과물
 - <img src = "image/0406.1.PNG">
+
+### CSS코드 작성, 소스전달 코드 작성
+```js
+ function Comment(props) {
+    return (
+        <div style={styles.wrapper}>
+            <div style={styles.imageContainer}>
+                <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/8/89/Portrait_Placeholder.png"
+                    alt = "프로필 이미지"
+                    style={styles.image}
+
+                />
+            </div>
+
+            <div style={styles.contentContainer}>
+                <span style={styles.nameText}>{props.name}</span>
+                <span style={styles.commentText}>{props.Comment}
+                </span>
+            </div>
+        </div>
+    )
+}
+```
+### map함수
+- 여러개의 Comment를 하나씩 빼서 사용.
 
 ###
 <h1>2023-03-30 5주차 수업</h1><br>
